@@ -4,7 +4,8 @@ My name is Van, a self-taught web developer.
 
 ## Skills
 
-- TypeScript, Python
+- TypeScript
+- Python
 
 ## Education
 
